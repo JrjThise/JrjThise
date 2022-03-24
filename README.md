@@ -31,11 +31,11 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://www.jonasrudbeck.dk"><img src="https://img.shields.io/badge/-jonasrudbeck.dk-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<p align="center"></p>
+<!--<a href="https://www.jonasrudbeck.dk"><img src="https://img.shields.io/badge/-jonasrudbeck.dk-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/jonas-rudbeck-johansen-78b42321b/"><img src="https://img.shields.io/badge/-Jonas%20Johansen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jonasrj97@gmail.com"><img src="https://img.shields.io/badge/-jonasrj97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:jrj@thise.dk"><img src="https://img.shields.io/badge/-Work:jrj@thise.dk-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+
 
 -----
